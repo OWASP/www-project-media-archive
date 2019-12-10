@@ -28,25 +28,25 @@ auto-migrated: 1
 <h2 id="licensing">Licensing</h2>
 <p>OWASP Media Project is distributing content that is free to use. It is licensed under the <a href="https://creativecommons.org/licenses/by/3.0/legalcode">Creative Commons Attribution 3.0 license</a>, so you can copy, distribute and transmit the work, and you can adapt it, and use it commercially, but all provided that you attribute the work and if you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.</p>
 <h2 id="appsecusa_2018_playlist">AppSecUSA 2018 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG-ma2GOBmdpGGfnVPVwFFQd}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG-ma2GOBmdpGGfnVPVwFFQd}}</p>
 <h2 id="appseceu_2018_playlist">AppSecEU 2018 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG9yT6HD6YeCbf6wymhAAqRb}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG9yT6HD6YeCbf6wymhAAqRb}}</p>
 <h2 id="appsecusa_2017_playlist">AppSecUSA 2017 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG9emx73fEjX0Cn6VHruJ4-l}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG9emx73fEjX0Cn6VHruJ4-l}}</p>
 <h2 id="appseceu_2017_playlist">AppSecEU 2017 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp}}</p>
 <h2 id="appsecusa_2016_playlist">AppSecUSA 2016 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG8DPozMmcbwBjFn15RtC75N}}</p>
 <h2 id="appseceu_2016_playlist">AppSecEU 2016 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG-Kf1_BOnT2LFZU8_SXfpKL}}</p>
 <h2 id="appsecusa_2015_playlist">AppSecUSA 2015 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG93dG_L9QKs0W1cD-esQEzU}}</p>
 <h2 id="appseceu_2015_playlist">AppSecEU 2015 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG-ZTcHhFfAeBthNVZVEtkg9}}</p>
 <h2 id="live_from_appsecusa_2014_playlist">Live from AppSecUSA 2014 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl}}</p>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG8jz9QpzQeLeB0914Ysq-Cl}}</p>
 <h2 id="live_from_appseceu_2014_playlist">Live from AppSecEU 2014 playlist</h2>
-<p>{{#ev:youtubeplaylist|PLpr-xdpM8wG_KHsxepT9o6trkqDELhr3_}}</p></td>
+<p>#ev:youtubeplaylist|PLpr-xdpM8wG_KHsxepT9o6trkqDELhr3_}}</p></td>
 <td><h2 id="quick_access">Quick Access</h2>
 <figure>
 <figure>
